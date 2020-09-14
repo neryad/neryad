@@ -17,7 +17,7 @@ I'm Islem Maboud a Full Stack Web Developer.I Spend most of time coding outstand
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![Angular Badge](https://img.shields.io/badge/-Angular-E23236?style=for-the-badge&labelColor=white&logo=angular&logoColor=E23236)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 ### Tutorials
 
@@ -55,7 +55,7 @@ I'm Islem Maboud a Full Stack Web Developer.I Spend most of time coding outstand
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=neryad.neryad)
 
 <details>
-<summary>
+<!-- <summary>
   More stuff about me
 </summary>
 
@@ -65,7 +65,7 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 #### Coding Stats
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:waka
 
 ```text
 TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 %
@@ -74,7 +74,7 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:wak --->
 
 #### Github Stats
 
