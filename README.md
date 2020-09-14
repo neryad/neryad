@@ -2,7 +2,7 @@
 
 I'm Dayern Gomez a Full Stack Web Developer.
 
-[![Twitter Badge](https://img.shields.io/badge/-@neryadg-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/NeryadG) [![Spotify Badge](https://img.shields.io/badge/-spotify-1CB854?style=for-the-badge&labelColor=black&logo=spotify&logoColor=1CB854)](https://open.spotify.com/show/3rellaT0hUB5CW9nMPsIvh) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayern-gomez/)
+[![Twitter Badge](https://img.shields.io/badge/-@neryadg-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/NeryadG) [![Spotify Badge](https://img.shields.io/badge/-spotify-1CB854?style=style=flat&labelColor=black&logo=spotify&logoColor=1CB854)](https://open.spotify.com/show/3rellaT0hUB5CW9nMPsIvh) [![Linkedin Badge](https://img.shields.io/badge/-DayernG-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayern-gomez/)
 
 <!-- TODO: Add last video link -->
 
