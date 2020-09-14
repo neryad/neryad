@@ -54,7 +54,7 @@ I'm Dayern Gomez a Full Stack Web Developer.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=neryad.neryad)
 
-<details>
+<!-- <details> -->
 <!-- <summary>
   More stuff about me
 </summary>
@@ -80,4 +80,4 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
 ![Neryad's github stats](https://github-readme-stats.vercel.app/api?username=neryad&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-</details>
+<!-- </details> -->
