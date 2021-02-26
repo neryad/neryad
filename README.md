@@ -23,10 +23,10 @@ I'm Dayern Gomez a Full Stack Web Developer.
 ###PocketList
 <br >
 [![IOS](https://img.shields.io/badge/IOS-lightgrey)](https://apps.apple.com/us/app/id1534192966) [![Android](https://img.shields.io/badge/Android-green)](https://play.google.com/store/apps/details?id=com.neryad.PocketList&hl=es&gl=US)
-<img src='https://play-lh.googleusercontent.com/jlt8ZY8oBkp2jkuawIg-ifUBi25Y3qtaV6TOGk_pLjeqnhiU6cmqNP0l7BhamRW51w=s180-rw'/>
+<img align="left" alt="React" width="26px" src='https://play-lh.googleusercontent.com/jlt8ZY8oBkp2jkuawIg-ifUBi25Y3qtaV6TOGk_pLjeqnhiU6cmqNP0l7BhamRW51w=s180-rw'/>
 <!-- ### Tutorials
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="PocketList" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
