@@ -20,10 +20,10 @@ I'm Dayern Gomez a Full Stack Web Developer.
 [![Angular Badge](https://img.shields.io/badge/-Angular-E23236?style=for-the-badge&labelColor=white&logo=angular&logoColor=E23236)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 ## Mobiles Apps
 
-####PocketList
+###PocketList
 <br >
-[![IOS](https://img.shields.io/badge/IOS-lightgrey)](https://apps.apple.com/us/app/id1534192966) | [![Android](https://img.shields.io/badge/Android-green)](https://play.google.com/store/apps/details?id=com.neryad.PocketList&hl=es&gl=US)
-
+[![IOS](https://img.shields.io/badge/IOS-lightgrey)](https://apps.apple.com/us/app/id1534192966) [![Android](https://img.shields.io/badge/Android-green)](https://play.google.com/store/apps/details?id=com.neryad.PocketList&hl=es&gl=US)
+<img src='https://play-lh.googleusercontent.com/jlt8ZY8oBkp2jkuawIg-ifUBi25Y3qtaV6TOGk_pLjeqnhiU6cmqNP0l7BhamRW51w=s180-rw'/>
 <!-- ### Tutorials
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
