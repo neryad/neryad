@@ -24,7 +24,7 @@ I'm Dayern Gomez a Full Stack Web Developer.
 <br >
 [IOS](https://img.shields.io/badge/IOS-lightgrey)](https://apps.apple.com/us/app/id1534192966) [Android](https://img.shields.io/badge/Android-green)](https://play.google.com/store/apps/details?id=com.neryad.PocketList&hl=es&gl=US)
 [Link text Here](https://link-url-here.org)
-[This is an external link to genome.gov] (https://www.genome.gov/)
+[I'm an inline-style link](https://www.google.com)
 <!-- ### Tutorials
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
