@@ -22,9 +22,9 @@ I'm Dayern Gomez a Full Stack Web Developer.
 
 #### PocketList
 <br >
-[IOS](https://img.shields.io/badge/IOS-lightgrey)](https://apps.apple.com/us/app/id1534192966) 
-[![Android Badge](https://img.shields.io/badge/-Android-success)](https://play.google.com/store/apps/details?id=com.neryad.PocketList&hl=es&gl=US)
-Here's our logo (hover to see the title text):
+- 🍎 IOS     : https://apps.apple.com/us/app/id1534192966 
+- 🤖 Android : https://play.google.com/store/apps/details?id=com.neryad.PocketList&hl=es&gl=US
+
 
 
 <!-- ### Tutorials
