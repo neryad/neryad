@@ -22,7 +22,7 @@ I'm Dayern Gomez a Full Stack Web Developer.
 
 #### PocketList
 <br >
-- 🍎 IOS     : https://apps.apple.com/us/app/id1534192966 
+- 🍎 IOS     : https://apps.apple.com/us/app/id1534192966 <br >
 - 🤖 Android : https://play.google.com/store/apps/details?id=com.neryad.PocketList&hl=es&gl=US
 
 
