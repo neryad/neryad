@@ -1,6 +1,6 @@
 ## Hi I'm Dayern <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Dayern Gomez a Full Stack Web Developer.
+I'm Dayern Gomez a Web Developer.
 
 [![Twitter Badge](https://img.shields.io/badge/-@neryadg-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/NeryadG) [![Spotify Badge](https://img.shields.io/badge/-spotify-1CB854?style=style=flat&labelColor=black&logo=spotify&logoColor=1CB854)](https://open.spotify.com/show/3rellaT0hUB5CW9nMPsIvh) [![Linkedin Badge](https://img.shields.io/badge/-DayernG-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayern-gomez/)
 
