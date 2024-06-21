@@ -1,16 +1,17 @@
 ## Hi I'm Dayern <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-👋 Hi there! I'm a web developer primarily working with Angular and Node.js. Recently, I've been focusing on Flutter, creating packages, and exploring its ecosystem. I'm actively seeking job opportunities in Flutter development. Currently, I'm working as an Angular developer and also enjoy doing live coding sessions, giving talks, and conducting interviews on my Twitch channel.
+👋 Hi there! I'm a web developer from Dom. Rep. 🇩🇴 primarily working with Angular and Node.js. Recently, I've been focusing on Flutter, creating packages, and exploring its ecosystem. I'm actively seeking job opportunities in Flutter development. Currently, I'm working as an Angular developer and also enjoy doing live coding sessions, giving talks, and conducting interviews on my Twitch channel.
 
 ### Connect with me:
+[![Website Badge](https://img.shields.io/badge/Website-neryad.dev-0e76a8?style=flat&labelColor=0e76a8&logo=internet-explorer&logoColor=white)](https://neryad.dev/)
 [![Twitter Badge](https://img.shields.io/badge/-@neryadg-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/NeryadG) 
-[![Spotify Badge](https://img.shields.io/badge/-spotify-1CB854?style=flat&labelColor=black&logo=spotify&logoColor=1CB854)]([https://open.spotify.com/show/3rellaT0hUB5CW9nMPsIvh](https://open.spotify.com/show/6f5DN27T1tLbS1f2vnSHih?si=e78fcf83e24f4338)) 
 [![Linkedin Badge](https://img.shields.io/badge/-DayernG-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayern-gomez/)
 
 ### Check out my channels:
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Programming-red?style=flat&logo=youtube&logoColor=white)]([https://www.youtube.com/channel/UC_your_programming_channel_id](https://www.youtube.com/@neryad)) 
 [![YouTube Gaming Badge](https://img.shields.io/badge/YouTube-Gaming-red?style=flat&logo=youtube&logoColor=white)]([https://www.youtube.com/channel/UC_your_gaming_channel_id](https://www.youtube.com/@neryadg)) 
 [![Twitch Badge](https://img.shields.io/badge/Twitch-DayernG-9146FF?style=flat&logo=twitch&logoColor=white)](https://www.twitch.tv/neryad)
+[![Spotify Badge](https://img.shields.io/badge/-spotify-1CB854?style=flat&labelColor=black&logo=spotify&logoColor=1CB854)]([https://open.spotify.com/show/3rellaT0hUB5CW9nMPsIvh](https://open.spotify.com/show/6f5DN27T1tLbS1f2vnSHih?si=e78fcf83e24f4338)) 
 
 
 <!-- TODO: Add last video link -->
