@@ -1,6 +1,13 @@
 ## Hi I'm Dayern <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Dayern Gomez a Web Developer.
+👋 Hi there! I'm a web developer primarily
+working with Angular and Node.js. Recently, I've
+been focusing on Flutter, creating packages, and
+exploring its ecosystem. I'm actively seeking job
+opportunities in Flutter development. Currently,
+I'm working as an Angular developer and also
+enjoy doing live coding sessions, giving talks, and
+conducting interviews on my Twitch channel.
 
 [![Twitter Badge](https://img.shields.io/badge/-@neryadg-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/NeryadG) [![Spotify Badge](https://img.shields.io/badge/-spotify-1CB854?style=style=flat&labelColor=black&logo=spotify&logoColor=1CB854)](https://open.spotify.com/show/3rellaT0hUB5CW9nMPsIvh) [![Linkedin Badge](https://img.shields.io/badge/-DayernG-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayern-gomez/)
 
