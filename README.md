@@ -25,16 +25,38 @@
 ## Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
+[![Dart Badge](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&labelColor=black&logo=dart&logoColor=0175C2)](#) 
+[![Flutter Badge](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&labelColor=black&logo=flutter&logoColor=02569B)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
+[![Angular Badge](https://img.shields.io/badge/-Angular-E23236?style=for-the-badge&labelColor=white&logo=angular&logoColor=E23236)](#) 
 
-[![Angular Badge](https://img.shields.io/badge/-Angular-E23236?style=for-the-badge&labelColor=white&logo=angular&logoColor=E23236)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-## Mobiles Apps
+## 📱 My Mobile Apps
 
-#### PocketList
-<br >
-- 🍎 IOS     : https://apps.apple.com/us/app/id1534192966 <br >
-- 🤖 Android : https://play.google.com/store/apps/details?id=com.neryad.PocketList&hl=es&gl=US
+### PocketList
+[![PocketList Badge](https://img.shields.io/badge/-PocketList-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.neryad.shopapp)
+[![GitHub Repo](https://img.shields.io/badge/Repository-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neryad/shopapp.git)
 
+PocketList is a comprehensive shopping list app built with Flutter. Easily manage your shopping lists and ensure you never miss an item while shopping. Download it on [Google Play](https://play.google.com/store/apps/details?id=com.neryad.shopapp) and check out the code on [GitHub](https://github.com/neryad/shopapp.git).
 
+### llevas Cuentas
+[![Allevas Cuentas Badge](https://img.shields.io/badge/-Allevas_Cuentas-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.neryad.lleva_cuentas)
+[![GitHub Repo](https://img.shields.io/badge/Repository-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neryad/lleva_cuentas_flutter.git)
+
+llevas Cuentas is an intuitive expense management app built with Flutter. Keep track of your finances effortlessly and make informed decisions. Download it on [Google Play](https://play.google.com/store/apps/details?id=com.neryad.lleva_cuentas) and explore the source code on [GitHub](https://github.com/neryad/lleva_cuentas_flutter.git).
+
+## 📦 My Packages
+
+### npm Package: TelephoneCheck
+[![NPM Badge](https://img.shields.io/badge/NPM-TelephoneCheck-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/telephonecheck)
+[![GitHub Repo](https://img.shields.io/badge/Repository-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neryad/ts-phone-validtor.git)
+
+TelephoneCheck is a npm package designed to validate phone numbers with ease. It's built with TypeScript for robust type-checking and developer-friendly API. Check it out on [npm](https://www.npmjs.com/package/telephonecheck) and see the source code on [GitHub](https://github.com/neryad/ts-phone-validtor.git).
+
+### pub.dev Package: TelephoneCheck
+[![Pub Badge](https://img.shields.io/badge/pub.dev-TelephoneCheck-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/telephone_check)
+[![GitHub Repo](https://img.shields.io/badge/Repository-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neryad/dart_phone_checker)
+
+TelephoneCheck is also available as a Dart package on pub.dev. This package provides easy phone number validation for Flutter and Dart applications. Explore it on [pub.dev](https://pub.dev/packages/telephone_check) and review the source code on [GitHub](https://github.com/neryad/dart_phone_checker).
 
 <!-- ### Tutorials
 
@@ -67,9 +89,10 @@
 
 - :email: myema@gmail.com --->
 
-#### Profile Visits
+## 👥 Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=neryad.neryad)
+Thank you for visiting my profile! Here is the number of visitors I've had so far: ![Visitors](https://komarev.com/ghpvc/?username=neryad)
+
 
 <!-- <details> -->
 <!-- <summary>
