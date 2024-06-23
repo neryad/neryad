@@ -40,7 +40,7 @@
 PocketList is a comprehensive shopping list app built with Flutter. Easily manage your shopping lists and ensure you never miss an item while shopping. Download it on [Google Play](https://play.google.com/store/apps/details?id=com.neryad.shopapp) and check out the code on [GitHub](https://github.com/neryad/shopapp.git).
 
 ### llevas Cuentas
-[![Allevas Cuentas Badge](https://img.shields.io/badge/-Allevas_Cuentas-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.neryad.lleva_cuentas)
+[![llevas Cuentas Badge](https://img.shields.io/badge/-Allevas_Cuentas-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.neryad.lleva_cuentas)
 [![GitHub Repo](https://img.shields.io/badge/Repository-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neryad/lleva_cuentas_flutter.git)
 
 llevas Cuentas is an intuitive expense management app built with Flutter. Keep track of your finances effortlessly and make informed decisions. Download it on [Google Play](https://play.google.com/store/apps/details?id=com.neryad.lleva_cuentas) and explore the source code on [GitHub](https://github.com/neryad/lleva_cuentas_flutter.git).
