@@ -45,6 +45,12 @@ PocketList is a comprehensive shopping list app built with Flutter. Easily manag
 
 llevas Cuentas is an intuitive expense management app built with Flutter. Keep track of your finances effortlessly and make informed decisions. Download it on [Google Play](https://play.google.com/store/apps/details?id=com.neryad.lleva_cuentas) and explore the source code on [GitHub](https://github.com/neryad/lleva_cuentas_flutter.git).
 
+### Nery News
+[![Nery News Badge](https://img.shields.io/badge/-Nery_News-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.neryad.nerynews)
+[![GitHub Repo](https://img.shields.io/badge/Repository-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neryad/rd_loca_news.git)
+
+Nery News is a mobile application developed in Flutter that provides local news from the Dominican Republic. It allows users to read news from multiple sources, save favorite articles, share news, and customize the user interface. Download it on [Google Play](https://play.google.com/store/apps/details?id=com.neryad.nerynews) and explore the source code on [GitHub](https://github.com/neryad/rd_loca_news.git).
+
 ## 📦 My Packages
 
 ### npm Package: TelephoneCheck
