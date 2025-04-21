@@ -51,6 +51,14 @@ llevas Cuentas is an intuitive expense management app built with Flutter. Keep t
 
 Nery News is a mobile application developed in Flutter that provides local news from the Dominican Republic. It allows users to read news from multiple sources, save favorite articles, share news, and customize the user interface. Download it on [Google Play](https://play.google.com/store/apps/details?id=com.neryad.nerynews) and explore the source code on [GitHub](https://github.com/neryad/rd_loca_news.git).
 
+## 🌐 My Web Apps
+
+### NeryNite Tracker
+[![Website Badge](https://img.shields.io/badge/-NeryNite_Tracker-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=internet-explorer&logoColor=white)](https://nerynite.netlify.app/)
+[![GitHub Repo](https://img.shields.io/badge/Repository-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neryad/nery-nite-tracker)
+
+NeryNite Tracker is a web application that helps users track their sleep patterns and improve their rest quality. Built with modern web technologies, it offers an intuitive interface to log and analyze sleep data. Check out the live app [here](https://nerynite.netlify.app/) and explore the source code on [GitHub](https://github.com/neryad/nery-nite-tracker).
+
 ## 📦 My Packages
 
 ### npm Package: TelephoneCheck
